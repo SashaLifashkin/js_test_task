@@ -5,3 +5,14 @@
 body {
   background: $c-gray;
 }
+
+.Add {
+  position: relative;
+  width: 100px;
+  height: 30px;
+
+  color: #fff;
+  background-color: #00f;
+
+  z-index: 10;
+}
